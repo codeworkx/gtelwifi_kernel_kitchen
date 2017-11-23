@@ -1,0 +1,18 @@
+import /init.gtelwifi_base.rc
+import /init.wifi.rc
+import /init.fac.rc
+
+on boot
+#++latin_mm:lkj for MobileTV [ISDBT]
+service mobileTV /system/bin/broadcastProcessObserver_ltn
+    class main
+    user system
+    group system audio camera graphics sdcard_rw sdcard_r media_rw shell
+#--latin_mm:lkj for MobileTV [ISDBT]
+
+on fs
+#++latin_mm:lkj for MobileTV [ISDBT]
+    mkdir /data/one-seg 0775 system system
+    chown system system /data/one-seg
+    chmod 0775 /data/one-seg
+#--latin_mm:lkj for MobileTV [ISDBT]

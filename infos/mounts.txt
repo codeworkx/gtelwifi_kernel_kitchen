@@ -1,0 +1,5 @@
+/dev/block/platform/sprd-sdhci.3/by-name/SYSTEM         /system
+/dev/block/platform/sprd-sdhci.3/by-name/userdata       /data
+/dev/block/platform/sprd-sdhci.3/by-name/CSC            /cache
+/dev/block/platform/sprd-sdhci.3/by-name/efs            /efs
+/dev/block/platform/sprd-sdhci.3/by-name/prodnv         /productinfo

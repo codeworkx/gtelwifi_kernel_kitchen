@@ -1,0 +1,32 @@
+major minor  #blocks  name
+ 179        0    7634944 mmcblk0
+ 179        1       2048 mmcblk0p1      SBOOT
+ 179        2       2048 mmcblk0p2      SBOOT2
+ 179        3       1024 mmcblk0p3      wfixnv1
+ 179        4       1024 mmcblk0p4      wfixnv2
+ 179        5       1024 mmcblk0p5      tdfixnv1
+ 179        6       1024 mmcblk0p6      tdfixnv2
+ 179        7       4096 mmcblk0p7      WDSP
+ 179        8       8192 mmcblk0p8      MODEM
+ 179        9       8192 mmcblk0p9      MODEM2
+ 179       10       4096 mmcblk0p10     TDDSP
+ 179       11       1024 mmcblk0p11     FOTA_SIG
+ 179       12       1024 mmcblk0p12     wruntimenv1
+ 179       13       1024 mmcblk0p13     wruntimenv2
+ 179       14       1024 mmcblk0p14     tdruntimenv1
+ 179       15       1024 mmcblk0p15     tdruntimenv2
+ 179       16       2048 mmcblk0p16     PARAM
+ 179       17      20480 mmcblk0p17     efs
+ 179       18       5120 mmcblk0p18     prodnv
+ 179       19       1024 mmcblk0p19     RESERVED2
+ 179       20      16384 mmcblk0p20     KERNEL
+ 179       21      16384 mmcblk0p21     RECOVERY
+ 179       22     204800 mmcblk0p22     CSC
+ 179       23    1536000 mmcblk0p23     SYSTEM
+ 179       24     153600 mmcblk0p24     HIDDEN
+ 179       25       9216 mmcblk0p25     persdata
+ 179       26    5615616 mmcblk0p26     userdata
+ 179       96       4096 mmcblk0rpmb
+ 179       64       4096 mmcblk0boot1
+ 179       32       4096 mmcblk0boot0
+ 253        0     786432 vnswap0
